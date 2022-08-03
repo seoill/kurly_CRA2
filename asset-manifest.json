@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/seoill/kurly_CRA2.git/static/js/main.32c09974.js",
-    "index.html": "/seoill/kurly_CRA2.git/index.html",
-    "main.32c09974.js.map": "/seoill/kurly_CRA2.git/static/js/main.32c09974.js.map"
+    "main.js": "/kurly_CRA2/static/js/main.1327ca11.js",
+    "index.html": "/kurly_CRA2/index.html",
+    "main.1327ca11.js.map": "/kurly_CRA2/static/js/main.1327ca11.js.map"
   },
   "entrypoints": [
-    "static/js/main.32c09974.js"
+    "static/js/main.1327ca11.js"
   ]
 }
